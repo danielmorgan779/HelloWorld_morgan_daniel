@@ -1,0 +1,13 @@
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.exe
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.deps.json
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.runtimeconfig.json
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.runtimeconfig.dev.json
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.dll
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\bin\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.pdb
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.csproj.AssemblyReference.cache
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.AssemblyInfoInputs.cache
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.AssemblyInfo.cs
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.csproj.CoreCompileInputs.cache
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.dll
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.pdb
+C:\Users\daniel.morgan\source\repos\HelloWorld_morgan_daniel\HelloWorld_morgan_daniel\obj\Debug\netcoreapp3.1\HelloWorld_morgan_daniel.genruntimeconfig.cache
